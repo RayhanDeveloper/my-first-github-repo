@@ -1,10 +1,10 @@
 div{
-    background-color: chartreuse;
-    margin-bottom: 50px;
-    margin: 20px;
+    background-color: rgb(235, 232, 232);
     padding: 10px;
-    box-shadow: rgb(198, 5, 5);
-    border-image-source: ;
-    text-shadow: rgb(5000, 5000, 5000);
-
+    margin: 100px;
+    border-color: rgb(28, 6, 151);
+    border-top-style: blue;
+    border: 5mm ridge rgba(211, 220, 50, .6);
+    box-shadow: 3dvh;
+    box-shadow: rgba(147, 10, 10, 0.16) 10px 1px 4px, rgb(12, 11, 11) 0px 0px 0px 3px;
 }
