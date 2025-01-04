@@ -1,7 +1,7 @@
 div{
     background-color: rgb(235, 232, 232);
-    padding:100px ;
-    margin-bottom: auto;
+    padding:10px;
+    margin-inline:10px;
     border-color: rgb(28, 6, 151);
     border-top-style: blue;
     border: 5mm ridge rgba(211, 220, 50, .6);
