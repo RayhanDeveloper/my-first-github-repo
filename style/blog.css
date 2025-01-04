@@ -1,5 +1,10 @@
 div{
-    background-color: aqua;
-    margin-top: 100px;
-    
+    background-color: chartreuse;
+    margin-bottom: 50px;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: rgb(198, 5, 5);
+    border-image-source: ;
+    text-shadow: rgb(5000, 5000, 5000);
+
 }
